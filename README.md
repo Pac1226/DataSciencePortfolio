@@ -8,7 +8,7 @@ A collection of selected data science projects to demonstrate skill sets, knowle
 
 - **PythonOOP:** A modular FinTech loan-qualifier application that serves as an example of object oriented programming in Python3.
 - **SQL:** Examples of executing and formulating SQL queries on simulated financial problems.
-- **Prophet:** Timeseries analysis and sales forecasting case study for an eCommerce company that uses Prophet and interactive visualizations.
+- **Prophet:** Timeseries analysis and sales forecasting case study for an eCommerce company that uses Prophet.
 - **Unsupervised Learning:** Clustering cryptocurrencies using K-means algorithm and Principal Component Analysis (PCA).
 - **Supervised Learning:** Application of several machine learning algorithms for an algorithmic trading bot and a credit risk analysis case study.
 - **GeoMapping:** Analysis of US housing data that demonstrates proficiency with geospatial analysis and the MapBox API.
