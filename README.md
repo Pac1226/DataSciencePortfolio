@@ -10,7 +10,7 @@ A collection of data science projects that demonstrate proficiency in a variety 
 - **SQL:** Examples of executing and formulating SQL queries on simulated financial problems.
 - **Prophet:** Timeseries analysis and sales forecasting case study for an eCommerce company that uses Prophet.
 - **Unsupervised Learning:** Clustering cryptocurrencies using K-means and Principal Component Analysis.
-- **Supervised Learning:** An algo-trading bot and credit risk analysis that uses regression/classification algorithms.
+- **Supervised Learning:** An algo-trading bot and credit risk analysis using regression/classification algorithms.
 - **GeoMapping:** Analysis of US housing data using geospatial analysis and the MapBox API.
 
 ---
