@@ -1,6 +1,6 @@
 # DataSciencePortfolio
 
-A collection of data science projects that utilize different skills, knowledge, and tools to solve business problems.
+A collection of data science projects that demonstrate the ability to solve business problems through a variety of methods, tools, and skills.
 
 ---
 
