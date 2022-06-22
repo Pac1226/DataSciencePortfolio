@@ -17,5 +17,4 @@ A collection of data science projects that demonstrate proficiency in a variety 
 
 ## Cloud Hosting
 
-These projects are hosted on DataPane or Streamlit for sharing with non-technical teams.
-https://datapane.com/reports/63OXrW7/san-francisco-housing-analysis/
+The hyperlinks take you to the live applications/dashboards hosted on DataPane or Streamlit for sharing with non-technical teams.
