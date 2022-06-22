@@ -15,6 +15,6 @@ A collection of data science projects that demonstrate the ability to solve busi
 
 ---
 
-## Hosting
+## Cloud Hosting
 
 These projects are hosted on DataPane or Streamlit for sharing with non-technical teams.
