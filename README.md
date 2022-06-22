@@ -15,7 +15,7 @@ A collection of data science projects that utilize different skills, knowledge, 
 
 ---
 
-## Results
+## Viewing
 
 The algorithmic trading model was backtested with 25 stocks and outperformed a buy/hold strategy by 141%. It produced an average return of 41% across the 25 stocks over a one year period. A buy/hold strategy would've returned -12%. The algorithm performs better with high beta stocks and underperforms with energy stocks.
 
