@@ -17,4 +17,4 @@ A collection of data science projects that demonstrate proficiency in a variety 
 
 ## Cloud Hosting
 
-The hyperlinks take you to the live applications/dashboards hosted on DataPane or Streamlit for sharing with non-technical teams.
+The hyperlinks take you to the live dashboards (DataPane) and applications (Streamlit) for sharing with non-technical teams.
