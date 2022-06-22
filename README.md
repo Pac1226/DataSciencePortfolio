@@ -6,7 +6,7 @@ A collection of selected data science projects to demonstrate skill sets, knowle
 
 ## Contents
 
-- **PythonOOP:** A CLI (command-line interface) loan-qualifier application that serves as an object oriented programming example in Python3.
+- **PythonOOP:** A modular FinTech loan-qualifier application that serves as an example of object oriented programming in Python3.
 - **SQL:** Examples of executing and formulating SQL queries on simulated financial problems.
 - **Prophet:** Timeseries analysis and sales forecasting case study for an eCommerce company that uses Prophet and interactive visualizations.
 - **Unsupervised Learning:** Clustering cryptocurrencies using K-means algorithm and Principal Component Analysis (PCA).
