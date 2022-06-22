@@ -10,7 +10,7 @@ A collection of selected data science projects to demonstrate skill sets, knowle
 - **SQL:** Examples of executing and formulating SQL queries on simulated financial problems.
 - **Prophet:** Timeseries analysis and sales forecasting case study for an eCommerce company that uses Prophet.
 - **Unsupervised Learning:** Clustering cryptocurrencies using K-means algorithm and Principal Component Analysis (PCA).
-- **Supervised Learning:** Application of several machine learning algorithms for an algorithmic trading bot and a credit risk analysis case study.
+- **Supervised Learning:** Examples of resuable code that leverages machine learning algorithms for algorithmic trading and credit risk analysis.
 - **GeoMapping:** Analysis of US housing data that demonstrates proficiency with geospatial analysis and the MapBox API.
 
 ---
