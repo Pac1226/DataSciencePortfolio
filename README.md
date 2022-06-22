@@ -17,4 +17,4 @@ A collection of data science projects that demonstrate the ability to solve busi
 
 ## Hosting
 
-These projects were built using Jupyter Notebook or VS Code and are hosted on DataPane or Streamlit for sharing with non-technical teams.
+These projects are hosted on DataPane or Streamlit for sharing with non-technical teams.
