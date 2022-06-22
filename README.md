@@ -8,7 +8,7 @@ A collection of data science projects that demonstrate proficiency in a variety 
 
 - **PythonOOP:** A FinTech loan qualification app that uses object oriented programming in Python3.
 - **SQL:** Examples of executing and formulating SQL queries on simulated financial problems.
-- **Prophet:** Timeseries analysis and sales forecasting case study for an eCommerce company that uses Prophet.
+- **[Prophet](https://datapane.com/reports/0AEvM03/sales-forecasting-for-ecommerce/):** Timeseries analysis and sales forecasting case study for an eCommerce company that uses Prophet.
 - **Unsupervised Learning:** Clustering cryptocurrencies with K-means and Principal Component Analysis.
 - **Supervised Learning:** An algo-trading bot and credit risk analysis using regression/classification algorithms.
 - **GeoMapping:** Analysis of US housing data using geospatial analysis and the MapBox API.
