@@ -10,7 +10,7 @@ A collection of data science projects that demonstrate the ability to solve busi
 - **SQL:** Examples of executing and formulating SQL queries on simulated financial problems.
 - **Prophet:** Timeseries analysis and sales forecasting case study for an eCommerce company that uses Prophet.
 - **Unsupervised Learning:** Clustering cryptocurrencies using K-means and Principal Component Analysis.
-- **Supervised Learning:** Programs that use machine learning algorithms for algorithmic trading and credit risk analysis.
+- **Supervised Learning:** An algorithmic trading model and credit risk analysis report that uses several algorithms.
 - **GeoMapping:** Analysis of US housing data using geospatial analysis and the MapBox API.
 
 ---
