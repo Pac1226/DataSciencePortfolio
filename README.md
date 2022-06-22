@@ -11,7 +11,7 @@ A collection of data science projects that demonstrate the ability to solve busi
 - **Prophet:** Timeseries analysis and sales forecasting case study for an eCommerce company that uses Prophet.
 - **Unsupervised Learning:** Clustering cryptocurrencies using K-means algorithm and Principal Component Analysis (PCA).
 - **Supervised Learning:** Clean, resuable code that leverages machine learning algorithms for algorithmic trading and credit risk analysis.
-- **GeoMapping:** Analysis of US housing data that demonstrates proficiency with geospatial analysis and the MapBox API.
+- **GeoMapping:** Analysis of US housing data using geospatial analysis and the MapBox API.
 
 ---
 
