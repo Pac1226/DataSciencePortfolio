@@ -1,6 +1,6 @@
 # DataSciencePortfolio
 
-A collection of data science projects that demonstrate proficiency in various tools, methods, and skills.
+A collection of academic projects at Columbia Engineering that demonstrate proficiency in various data science tools, methods, and skills. Achieved an overall grade of 98% (A) on 19 indivual projects and 2 team projects. The following is sample of 8 projects focused on machine learning, blockchain, and financial programming.
 
 ---
 
