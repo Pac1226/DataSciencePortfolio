@@ -6,8 +6,8 @@ A collection of data science projects that demonstrate proficiency in various to
 
 ## Contents
 - **[ForecastingProphet](https://datapane.com/reports/0AEvM03/sales-forecasting-for-ecommerce/):** Prophet timeseries analysis and forecasting case study for an eCommerce company.
-- **[CreditRiskClassificationSupervisedLearning](https://datapane.com/reports/XkndJK3/credit-risk-classification-report/):** A credit risk analysis classification analysis using Logistic Regression.
-- **[AlgoTradingSupervisedLearning](https://github.com/Pac1226/DataSciencePortfolio/tree/main/AlgoTradingSupervisedLearning):** Mean reversion algo-trading bot optimized via LogisticRegression, RandomForest, and SVM algorithms.
+- **[ClassificationSupervisedLearning](https://datapane.com/reports/XkndJK3/credit-risk-classification-report/):** A credit risk analysis classification analysis using Logistic Regression.
+- **[AlgoTrading](https://github.com/Pac1226/DataSciencePortfolio/tree/main/AlgoTradingSupervisedLearning):** Mean reversion algo-trading bot optimized via LogisticRegression, RandomForest, and SVM algorithms.
 - **[GeoMapping](https://datapane.com/reports/63OXrW7/san-francisco-housing-analysis/):** Analysis of US housing data using geospatial analysis and the MapBox API.
 - **[SQL/Databases](https://github.com/Pac1226/DataSciencePortfolio/tree/main/DatabasesSQL):** Examples of executing and formulating SQL queries on simulated financial problems.
 - **[BlockchainLedger](https://github.com/Pac1226/DataSciencePortfolio/tree/main/BlockchainLedgerPyChain):** Blockchain ledger that allows institutions to make financial transactions and verify the ledger's integrity.
