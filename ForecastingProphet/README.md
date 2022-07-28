@@ -1,6 +1,6 @@
 # ForecastingProphet
 
-This is a time series analysis and forecasting project for an eCommerce company to inform strategic planning. 
+This is a time series analysis and sales forecasting project for an eCommerce company. 
 
 [Live Dashboard](https://datapane.com/reports/0AEvM03/sales-forecasting-for-ecommerce/)
 
