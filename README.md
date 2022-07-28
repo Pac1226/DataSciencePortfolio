@@ -6,7 +6,7 @@ A collection of data science projects that demonstrate proficiency in various to
 
 ## Contents
 - **[ForecastingProphet](https://datapane.com/reports/0AEvM03/sales-forecasting-for-ecommerce/):** Prophet timeseries analysis and forecasting case study for an eCommerce company.
-- **[CreditRiskClassification](https://datapane.com/reports/XkndJK3/credit-risk-classification-report/):** A supervised learning project that trains a model to evaluate the creditworthiness of borrowers for peer-to-peer lending services company.
+- **[CreditRiskClassification](https://datapane.com/reports/XkndJK3/credit-risk-classification-report/):** Supervised learning project that trains a model to analyze credit risk for a peer-to-peer FinTech lending company.
 - **[AlgoTrading](https://github.com/Pac1226/DataSciencePortfolio/tree/main/AlgoTradingSupervisedLearning):** Mean reversion algo-trading bot optimized with LogisticRegression, RandomForest, and SVM algorithms.
 - **[GeoMapping](https://datapane.com/reports/63OXrW7/san-francisco-housing-analysis/):** Analysis of US housing data using geospatial analysis and the MapBox API.
 - **[SQL/Databases](https://github.com/Pac1226/DataSciencePortfolio/tree/main/DatabasesSQL):** Examples of executing and formulating SQL queries on simulated financial problems.
