@@ -1,6 +1,6 @@
 # Credit Risk Analysis #
 
-A Supervised Learning project that trains a model to identify the creditworthiness of borrowers for peer-to-peer lending services company. The model analyzes historical lending data to classify loans as "healthy" or "risky." 
+Two logistic regression model were trained for a peer-to-peer lending services company to identify the credit worthiness of future borrowers. The model analyzes historical lending data to classify loans as "healthy" or "risky." 
 
 
 ## Problem ##
