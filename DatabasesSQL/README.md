@@ -1,4 +1,4 @@
-# SQL | Financial Databses | ETF Analaysi
+# SQL | Financial Databses | ETF Analysis
 
 Making SQL queries on a financial database to analyze the performance of a fintech ETF for an academic project at Columbia Engineering.
 
