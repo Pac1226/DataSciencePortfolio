@@ -1,6 +1,6 @@
-# Peter Lieberman | Challenge 2 | Loan Qualifier Application
+# FinTech Application | Loan Qualifier
 
-The following document is a technical summary of a modular application built for "FinTech Lending Startup" that collects loan information from applicants to identify a list loans they qualify for.
+This a modular Command-Line Interface (CLI) application built for "FinTech Lending Startup" that collects loan information from applicants to identify a list loans they qualify for.
 
 
 ## Technologies
