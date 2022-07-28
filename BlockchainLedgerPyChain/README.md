@@ -1,6 +1,6 @@
-# Challenge 18 | Peter Lieberman | PyChain Ledger
+# Blockchain Ledger | PyChain
 
-PyChain Ledger is a a blockchain-based ledger system, complete with a user-friendly web interface hosted on Streamlit. This ledger allows partner banks to conduct financial transactionsand to verify the integrity of the data in the ledger.
+PyChain Ledger is a a blockchain-based ledger system, complete with a user-friendly web interface hosted on Streamlit. This ledger allows partner banks to conduct financial transactions and to verify the integrity of the data in the ledger.
 
 
 ## Technologies
@@ -17,12 +17,8 @@ The application takes several user inputs. The users selects a sender, receiver,
 
 ---
 
-## Streamlit Log
+## Streamlit App
 
 ![Streamlit](streamlit_pychain.png)
 
 ---
-
-## License
-
-MIT License
