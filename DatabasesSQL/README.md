@@ -1,6 +1,6 @@
-# Peter Lieberman | Challenge 7 | ETF Analyzer
+# SQL | Financial Databses | ETF Analaysi
 
-The following document is a technical summary of a financial database and web application that use SQL, Python and the Voilá library to analyze the performance of a hypothetical fintech ETF.
+Making SQL queries on a financial database to analyze the performance of a fintech ETF for an academic project at Columbia Engineering.
 
 
 ## Technologies
