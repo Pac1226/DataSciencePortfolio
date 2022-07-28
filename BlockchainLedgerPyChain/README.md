@@ -1,6 +1,6 @@
 # Blockchain Ledger | PyChain
 
-PyChain Ledger is a a blockchain-based ledger system, complete with a user-friendly web interface hosted on Streamlit. This ledger allows partner banks to conduct financial transactions and to verify the integrity of the data in the ledger.
+PyChain Ledger is a blockchain-based ledger system, complete with a user-friendly web interface hosted on Streamlit. This ledger allows partner banks to conduct financial transactions and to verify the integrity of the data in the ledger.
 
 
 ## Technologies
