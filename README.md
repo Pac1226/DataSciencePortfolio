@@ -1,6 +1,6 @@
 # DataSciencePortfolio
 
-A collection of data science projects that demonstrate proficiency in a variety of tools, methods, and skills.
+A collection of data science projects that demonstrate proficiency in various tools, methods, and skills.
 
 ---
 
