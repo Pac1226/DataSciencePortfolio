@@ -1,8 +1,6 @@
 # DataSciencePortfolio
 
-A collection of data science projects that demonstrate proficiency in various tools, methods, and skills. 
-
-This is a sample of 8 projects from a total of 21 projects done for the Columbia Engineering FinTech Bootcamp. The cumulative grade for all 21 projects was 98% (A). Topics covered include machine learning, blockchain, and financial programming.
+A collection of data science projects that demonstrate proficiency in various tools, methods, and skills.
 
 ---
 
